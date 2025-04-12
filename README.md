@@ -3,8 +3,8 @@
 
 ## Table of Contents :
 - [Background/Context](-background/context-)
-- [Company Details](company-details-)
-- [Data Model](data-model-)
+- [Company Details](-company-details-)
+- [Data Model](-data-model-)
 - [Ad-Hoc Requests and Results](-ad-hoc-requests-and-results-)
 ## Background/Context 
 - Atliq Hardware is one of India's major computer hardware
