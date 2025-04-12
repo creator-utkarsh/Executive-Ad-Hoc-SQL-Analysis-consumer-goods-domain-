@@ -2,10 +2,10 @@
   ![image](https://github.com/user-attachments/assets/566bfc22-25ed-4d53-b885-38052101a2b4)
 
 ## Table of Contents :
-- [Background/Context](#background-/-context-)
-- [Company Details](#company-details-)
-- [Data Model](#data-model-)
-- [Ad-Hoc Requests and Results](#ad-hoc-requests-and-results-)
+- [Background/Context](#backgroundcontext)
+- [Company Details](#company-details)
+- [Data Model](#data-model)
+- [Ad-Hoc Requests and Results](#ad-hoc-requests-and-results)
 ## Background/Context 
 - Atliq Hardware is one of India's major computer hardware
 manufacturers, with a strong presence in other nations.
