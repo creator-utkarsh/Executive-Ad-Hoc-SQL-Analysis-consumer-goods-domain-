@@ -2,7 +2,7 @@
   ![image](https://github.com/user-attachments/assets/566bfc22-25ed-4d53-b885-38052101a2b4)
 
 ## Table of Contents :
-- [Background/Context](#background/context-)
+- [Background/Context](#background-/-context-)
 - [Company Details](#company-details-)
 - [Data Model](#data-model-)
 - [Ad-Hoc Requests and Results](#ad-hoc-requests-and-results-)
@@ -21,7 +21,7 @@ the skills.
   ![Screenshot (34)](https://github.com/user-attachments/assets/0658a907-ecd3-43a5-ab78-d81b17965f2b)
   ![Screenshot (35)](https://github.com/user-attachments/assets/5a2abe9c-2b1e-4402-aff8-f1a7b8d4bae7)
 
-## Data Model 
+## Data Model
   ![Data Model](https://github.com/user-attachments/assets/96b685bd-ddf4-489d-b99b-c5fec629225f)
 
 ## Ad-Hoc Requests and Results 
